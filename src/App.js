@@ -54,8 +54,7 @@ const XTable = () => {
     </div>
   );
 };
-
-const App = () => {
+export default function App() {
   return (
     <div>
       <XTable />
